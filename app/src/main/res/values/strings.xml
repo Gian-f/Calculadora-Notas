@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">DIO Project</string>
     <string name="calcular">Calcular</string>
-    <string name ="faltas"> faltas</string>
-    <string name ="segunda_nota">Segunda nota</string>
-    <string name ="primeira_nota"> primeira nota</string>
+    <string name="nota1">nota1</string>
+    <string name="nota2">Nota2</string>
+    <string name="faltas">faltas</string>
+    <string name="tema">Tema</string>
 </resources>
